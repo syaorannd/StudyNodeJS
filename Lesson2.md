@@ -1,4 +1,5 @@
-#Chạy file mã nguồn Node
+# Chạy file mã nguồn Node
+
 Bạn có thể mở terminal lên và gõ lệnh node --help để xem hướng dẫn sử dụng Node
 ```
 thinhnn@thinhnn-Vostro-3670:~$ node --help
