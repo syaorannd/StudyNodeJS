@@ -1,5 +1,5 @@
 # Tổng quan
-Node là một nền tảng phát trieenrr các ứng dụng web back-end được viết bằng javascript, tức là Node không được viết để chạy trên trình duyệt, nếu bạn từng học Javascript thông thường thì bạn sẽ thấy Node chạy khác với những gì bạn đã học, bạn sẽ không thấy những thứ như document.getElementById()... mặc dù thực tế vẫn có một sôt thư viện hỗ trợ Node viết cho trình duyệt, tuy nhiên chúng ta sẽ không quan tâm đến chúng trong series này.
+Node là một nền tảng phát triển các ứng dụng web back-end được viết bằng javascript, tức là Node không được viết để chạy trên trình duyệt, nếu bạn từng học Javascript thông thường thì bạn sẽ thấy Node chạy khác với những gì bạn đã học, bạn sẽ không thấy những thứ như document.getElementById()... mặc dù thực tế vẫn có một sôt thư viện hỗ trợ Node viết cho trình duyệt, tuy nhiên chúng ta sẽ không quan tâm đến chúng trong series này.
 
 Ngoài việc chạy trên javaScript thì Node có những tính năng kèm theo:
 - Có trình CLI( giao diện dòng lệnh)
